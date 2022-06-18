@@ -5,3 +5,9 @@ In this assignment, we experiment by changing the intensity of the background of
 Detailed report in **Algorithmic_Details_Assignment_0.pdf**
 
 More details here: https://www.cse.iitd.ac.in/~pkalra/col783/assignment0.html
+
+### Libraries Required 
+1. Numpy
+2. OpenCV
+3. Matplotlib
+4. Scipy
