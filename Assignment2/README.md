@@ -4,7 +4,7 @@ In the first part of the assignment, we aim to digitally transfer make up from a
 
 Detailed report in **Assignment 2 Report.pdf**
 
-More details here: https://www.cse.iitd.ac.in/~pkalra/col783/assignment2/assignment2.html
+More details on the problem statement: https://www.cse.iitd.ac.in/~pkalra/col783/assignment2/assignment2.html
 
 ### Requirements to Run the Code
 
