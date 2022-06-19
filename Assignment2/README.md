@@ -15,4 +15,4 @@ More details here: https://www.cse.iitd.ac.in/~pkalra/col783/assignment2/assignm
 4. dlib 
 5. imutils
 
-**Note:** In order to run the code, **shape_predictor_68_face_landmarks.dat** also needs to be added to the directory containing the src folder containing the **Assignment.ipynb** file. The model can be downloaded from https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2.
+**Note:** In order to run the code, **shape_predictor_68_face_landmarks.dat** also needs to be added to the **src** folder containing the **Assignment.ipynb** file. The model can be downloaded from https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2.
