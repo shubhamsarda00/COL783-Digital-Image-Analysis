@@ -1,6 +1,6 @@
 # Assignment 3
 
-In this assignment, we explore the applications of content aware **Seam Carving**, as described in **seamcarving.pdf** (https://dl.acm.org/doi/10.1145/1276377.1276390). 
+In this assignment, we explore the applications of **content aware Seam Carving**, as described in **seamcarving.pdf** (https://dl.acm.org/doi/10.1145/1276377.1276390). 
 Seam carving can be used for **image resizing** (reduce or enlarge) as well as **object removal** removal purposes.
 
 Detailed report in **Assignment3_Report.pdf**
