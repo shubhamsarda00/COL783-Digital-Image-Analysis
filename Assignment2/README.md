@@ -1,6 +1,6 @@
 # Assignment 2
 
-In the first part of the assignment, we aim to digitally transfer make up from a reference image (with makeup) to a subject image, as described in **digital_face_makeup.pdf**. XDoG processing, as described in **XDoG.pdf**, has also been implemented to stylize the image.
+In the first part of the assignment, we aim to digitally transfer make up from a reference image (with makeup) to a subject image, as described in **digital_face_makeup.pdf** (https://ieeexplore.ieee.org/document/5206833). XDoG processing, as described in **XDoG.pdf** (https://www.sciencedirect.com/science/article/abs/pii/S009784931200043X?via%3Dihub), has also been implemented to stylize the image.
 
 Detailed report in **Assignment 2 Report.pdf**
 
