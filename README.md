@@ -1,4 +1,4 @@
-# COL783: Digital-Image-Analysis
+# COL783: Digital Image Analysis
 
 Assignments of COL783 course done in Spring'21 at IIT Delhi under Prof. Prem Kalra.
 
